@@ -174,6 +174,7 @@ lifecycle {
      protected_settings
      ]
   }
+  tags = var.MD_ALL_TAGS 
 }
 
 
