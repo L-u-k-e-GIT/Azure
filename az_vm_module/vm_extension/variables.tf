@@ -74,3 +74,8 @@ variable "MD_DOMAIN_LDAP" {
  
 }
 
+variable "MD_ALL_TAGS" { 
+ 
+ default = ""
+ 
+}
